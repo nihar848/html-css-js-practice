@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #62676b;   
+}
+
+h4{
+    margin: 20px;
+    text-align:center;
+    font-weight: bold;
+    text-decoration: underline;
+    color: coral;
+}
+a:link {
+    text-decoration: none;
+}
+.link_text{
+    color: white;
+}
+.btn{
+    border-color: rgb(242, 179, 84);
+
+}
+.row{
+    margin: 10px;
+}
+.project_container{
+    width: 350px;
+    
+    margin-right: 0;
+
+}
+    
